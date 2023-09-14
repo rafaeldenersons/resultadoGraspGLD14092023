@@ -1,0 +1,15 @@
+Nº,Aparelho,Deslocável,Potência [kW],Tempo de uso [h],Consumo [kWh],Tempo de uso [h],Consumo [kWh],Tempo de uso [h],Consumo [kWh]
+1,Aspirador de pó,sim,0.60,0,0.00,0,0.00,1,0.60
+2,Chuveiro elétrico,sim,5.50,3,16.50,0,0.00,0,0.00
+3,Computador,sim,0.30,8,2.40,2,0.60,2,0.60
+4,Condicionador de ar,sim,1.40,8,11.20,1,1.40,2,2.80
+5,Ferro elétrico,sim,1.00,1,1.00,1,1.00,0,0.00
+6,Forno de micro ondas,sim,2.00,3,6.00,0,0.00,0,0.00
+7,Geladeira simples,não,0.25,19,4.75,2,0.50,3,0.75
+8,Liquidificador,sim,0.20,0,0.00,0,0.00,1,0.20
+9,Máquina de lavar roupa,sim,1.00,0,0.00,0,0.00,1,1.00
+10,Secadora de roupas,sim,3.50,1,3.50,0,0.00,0,0.00
+11,Televisor 24'',sim,0.09,5,0.45,2,0.18,3,0.27
+12,Ventilador,não,0.10,9,0.90,2,0.20,3,0.30
+,,,,,,,,,
+,,,,Total Fora de Ponta: ,46.70,Total Intermediário: ,3.88,Total Ponta: ,6.52
